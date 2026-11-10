@@ -5,7 +5,7 @@ A simple Hello World Next.js application.
 ## Getting Started
 
 ### Prerequisites
-- Node.js 18+ installed
+- Node.js 22, 24, or 26
 
 ### Installation
 
